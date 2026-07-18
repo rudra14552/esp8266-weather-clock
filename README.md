@@ -4,6 +4,12 @@ A WiFi-connected desk clock built on an ESP-12 D1 Mini V2 and a 4-in-1 MAX7219 d
 
 ## Features
 
+
+https://github.com/user-attachments/assets/03427684-f301-4356-8273-96b427219012
+
+
+
+
 - 🕐 **Live clock** — 12-hour format, centered, with a blinking colon, synced over WiFi via NTP (no RTC module needed)
 - 🌦️ **Live weather** — current temperature and condition (sunny, cloudy, rainy, stormy, snowy, foggy) for your exact GPS coordinates, fetched from [Open-Meteo](https://open-meteo.com) — completely free, no API key required
 - 🎨 **Custom pixel icons** — hand-designed 16×8 weather icons, rendered as raw pixels (no external icon libraries)
